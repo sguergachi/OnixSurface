@@ -1,0 +1,21 @@
+K 26
+svn:wc:ra_dav:activity-url
+V 27
+/svnroot/auroragm/!svn/act/
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/auroragm/!svn/ver/206/trunk/AuroraSurface
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/auroragm/!svn/ver/132/trunk/AuroraSurface/build.xml
+END
+manifest.mf
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/auroragm/!svn/ver/132/trunk/AuroraSurface/manifest.mf
+END
